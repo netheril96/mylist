@@ -28,6 +28,8 @@
 ||google.com
 ||medium.com
 ||google^
+||berkeley.edu
+||stanford.edu
 
 ||akamai.net
 ||akamaized.net

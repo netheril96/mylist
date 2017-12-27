@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import requests
 import base64
 import os
@@ -5,7 +6,7 @@ import re
 
 
 def main():
-    os.chdir(os.path.dirname(__file__))
+    os.chdir(os.path.dirname(os.path.realpath(__file__)))
     GFWLIST_URL = 'https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt'
     contents = requests.get(GFWLIST_URL).text
     contents = base64.b64decode(contents)

@@ -222,6 +222,7 @@ share.dmhy.org
 ||glass8.eu
 ||glype.com
 ||go141.com
+||guo.media
 ||hautelook.com
 ||hautelookcdn.com
 ||hmvdigital.ca
@@ -377,6 +378,7 @@ share.dmhy.org
 ||my.pcloud.com
 ||pixiv.net
 ||secure.raxcdn.com
+||sosreader.com
 ||sulian.me
 ||unseen.is
 ||xm.com
@@ -2532,6 +2534,7 @@ cn.freeones.com
 free4u.com.ar
 .free-ssh.com
 ||free-ssh.com
+||freechinaforum.org
 .freedomcollection.org/interviews/rebiya_kadeer
 .freeforums.org
 ||freenetproject.org
@@ -2910,6 +2913,7 @@ ftchinese.com/story/001071200
 .ftchinese.com/story/001072271
 .ftchinese.com/story/001072348
 .ftchinese.com/story/001072677
+.ftchinese.com/story/001072794
 .ftchinese.com/story/001072853
 .ftchinese.com/story/001072895
 .ftchinese.com/story/001072993
@@ -2950,6 +2954,13 @@ ftchinese.com/story/001071200
 .ftchinese.com/story/001074891
 .ftchinese.com/story/001074918
 .ftchinese.com/story/001075081
+.ftchinese.com/story/001075216
+.ftchinese.com/story/001075230
+.ftchinese.com/story/001075262
+.ftchinese.com/story/001075269
+.ftchinese.com/story/001075500
+.ftchinese.com/story/001075650
+.ftchinese.com/story/001075678
 .ftchinese.com/tag/%E5%8D%81%E5%85%AB%E5%B1%8A%E4%B8%89%E4%B8%AD%E5%85%A8%E4%BC%9A
 .ftchinese.com/tag/%E6%B8%A9%E5%AE%B6%E5%AE%9D
 .ftchinese.com/tag/%E8%96%84%E7%86%99%E6%9D%A5
@@ -4931,6 +4942,7 @@ opml.radiotime.com
 ||raidcall.com.tw
 .raidtalk.com.tw
 .rainbowplan.org/bbs
+|https://raindrop.io/
 .raizoji.or.jp
 |http://raizoji.or.jp
 rangwang.biz
@@ -6429,6 +6441,7 @@ wikilivres.info/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0
 ||wikimapia.org
 |http://zh.wikisource.org
 ||zh.wikinews.org
+||ja.wikipedia.org
 zh.wikipedia.org
 zh.m.wikipedia.org
 |https://zh.m.wikipedia.org

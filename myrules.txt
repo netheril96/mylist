@@ -40,6 +40,7 @@
 ||readthedocs.io
 ||readthedocs.org
 ||wildml.com
+||typekit.net
 
 ||akamai.net
 ||akamaized.net

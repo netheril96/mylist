@@ -37,6 +37,10 @@
 ||ggpht.com
 ||nyt.com
 ||nytimes.com
+||python.org
+||readthedocs.io
+||readthedocs.org
+||wildml.com
 
 ||akamai.net
 ||akamaized.net
@@ -2534,6 +2538,7 @@ cn.freeones.com
 free4u.com.ar
 .free-ssh.com
 ||free-ssh.com
+.freechina.news/
 ||freechinaforum.org
 .freedomcollection.org/interviews/rebiya_kadeer
 .freeforums.org
@@ -4609,7 +4614,7 @@ oyghan.com/wps
 ||ow.ly
 bbs.ozchinese.com
 .ozvoice.org
-|https://ozvoice.org
+||ozvoice.org
 .ozxw.com
 .ozyoyo.com
 ||pachosting.com
@@ -4819,6 +4824,7 @@ proxyanonimo.es
 pubu.com.tw
 puffinbrowser.com
 pureinsight.org
+.pushchinawall.com
 .putty.org
 ||putty.org
 ||calebelston.com
@@ -5422,7 +5428,7 @@ sthoo.com
 stickeraction.com/sesawe
 .stileproject.com
 .sto.cc
-||stoneip.info
+.stoporganharvesting.org
 ||storagenewsletter.com
 .storm.mg
 ||storm.mg
@@ -5482,7 +5488,6 @@ sun1911.com
 ||swissvpn.net
 switchvpn.net
 ||switchvpn.net
-||swift-tools.net
 .sydneytoday.com
 ||sydneytoday.com
 .sylfoundation.org
@@ -5492,7 +5497,7 @@ sysresccd.org
 blog.syx86.com/2009/09/puff
 blog.syx86.cn/2009/09/puff
 .szbbs.net
-||szetowah.org.hk
+.szetowah.org.hk
 ||t-g.com
 .t35.com
 .t66y.com
@@ -5806,8 +5811,6 @@ tora.to
 .torcn.com
 .torproject.org
 ||torproject.org
-torrentcrazy.com
-||torrentcrazy.com
 torrentprivacy.com
 ||torrentprivacy.com
 |http://torrentproject.se
@@ -6053,7 +6056,6 @@ twurl.nl
 .txxx.com
 .tycool.com
 ||tycool.com
-||tzangms.com
 ||typepad.com
 ||blog.expofutures.com
 ||legaltech.law.com

@@ -36,7 +36,10 @@
 ||ggpht.com
 ||nyt.com
 ||nytimes.com
-
+||python.org
+||readthedocs.io
+||readthedocs.org
+||wildml.com
 
 ||akamai.net
 ||akamaized.net

@@ -41,6 +41,7 @@
 ||readthedocs.org
 ||wildml.com
 ||typekit.net
+||tensorflow.org
 
 ||akamai.net
 ||akamaized.net

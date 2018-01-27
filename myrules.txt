@@ -42,6 +42,11 @@
 ||wildml.com
 ||typekit.net
 ||tensorflow.org
+||overleaf.com
+||sharelatex.com
+||pusher.com
+||filepicker.io
+||ravenjs.com
 
 ||akamai.net
 ||akamaized.net

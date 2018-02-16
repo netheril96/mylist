@@ -52,6 +52,7 @@
 ||leagueoflegends.com
 ||twitchcdn.net
 ||jtvnw.com
+||pydata.org
 ||aqicn.org
 
 ||akamai.net

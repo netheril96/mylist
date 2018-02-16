@@ -52,6 +52,7 @@
 ||twitchcdn.net
 ||jtvnw.com
 ||twitch.tv
+||pydata.org
 ||aqicn.org
 
 ||akamai.net

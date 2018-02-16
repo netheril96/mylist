@@ -52,6 +52,7 @@
 ||twitchcdn.net
 ||jtvnw.com
 ||twitch.tv
+||aqicn.org
 
 ||akamai.net
 ||akamaized.net

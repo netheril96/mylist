@@ -52,6 +52,7 @@
 ||leagueoflegends.com
 ||twitchcdn.net
 ||jtvnw.com
+||aqicn.org
 
 ||akamai.net
 ||akamaized.net
@@ -5890,6 +5891,7 @@ tube8.com
 |http://tubeislam.com
 .tubestack.com
 ||tubewolf.com
+.tuibeitu.net
 tuidang.net
 tuidang.org
 .tuidang.se
@@ -6791,6 +6793,7 @@ zhuichaguoji.org
 .zinio.com
 ||zinio.com
 .ziporn.com
+.zippyshare.com
 .zkaip.com
 ||zkaip.com
 realforum.zkiz.com

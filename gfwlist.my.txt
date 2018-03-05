@@ -334,6 +334,7 @@ share.dmhy.org
 |https://riseup.net
 ||sadistic-v.com
 |http://cdn*.search.xxx/
+||shiksha.com
 ||slacker.com
 ||sm-miracle.com
 ||spotify.com
@@ -400,6 +401,7 @@ share.dmhy.org
 ||sosreader.com
 ||sulian.me
 ||unseen.is
+||cn.uptodown.com
 ||xm.com
 ||read01.com
 ||kknews.cc
@@ -1278,6 +1280,7 @@ atgfw.org
 .atnext.com
 ||atnext.com
 ice.audionow.com
+.av.com
 ||av.movie
 avaaz.org
 ||avaaz.org
@@ -5143,6 +5146,7 @@ savevid.com
 .scmpchinese.com
 ||scramble.io
 .scribd.com
+||scribd.com
 ||scriptspot.com
 seapuff.com
 domainhelp.search.com
@@ -6420,7 +6424,8 @@ wengewang.com
 ||wengewang.org
 .wenhui.ch
 |http://trans.wenweipo.com/gb/
-wenxuecity.com
+.wenxuecity.com
+||wenxuecity.com
 .wenyunchao.com
 ||wenyunchao.com
 .westca.com
@@ -6491,7 +6496,6 @@ winning11.com
 winwhispers.info
 ||wiredbytes.com
 ||wiredpen.com
-||wireshark.org
 .wisdompubs.org
 .wisevid.com
 ||wisevid.com

@@ -54,6 +54,7 @@
 ||twitch.tv
 ||pydata.org
 ||aqicn.org
+||mobafire.com
 
 ||akamai.net
 ||akamaized.net

@@ -55,6 +55,7 @@
 ||pydata.org
 ||aqicn.org
 ||mobafire.com
+||httpie.org
 
 ||akamai.net
 ||akamaized.net

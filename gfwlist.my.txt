@@ -52,6 +52,8 @@
 ||leagueoflegends.com
 ||twitchcdn.net
 ||jtvnw.com
+||scorecardresearch.com
+||jtvnw.net
 ||pydata.org
 ||aqicn.org
 ||mobafire.com
@@ -385,6 +387,7 @@ share.dmhy.org
 ||xn--p8j9a0d9c9a.xn--q9jyb4c
 |https://*.s3.amazonaws.com
 ||s3-ap-southeast-2.amazonaws.com
+||big.one
 ||binance.com
 ||bitfinex.com
 ||bitmex.com
@@ -723,6 +726,7 @@ blogspot.com
 ||firebaseio.com
 ||g.co
 ||gcr.io
+||get.app
 ||get.how
 ||getmdl.io
 ||gmail.com
@@ -830,6 +834,7 @@ blogspot.com
 ||picasaweb.com
 ||polymer-project.org
 ||questvisual.com
+||admin.recaptcha.net
 ||api.recaptcha.net
 ||api-secure.recaptcha.net
 ||api-verify.recaptcha.net
@@ -1326,6 +1331,8 @@ avaaz.org
 .avdb.tv
 ||avdb.tv
 .avfantasy.com
+.avgle.com
+||avgle.com
 ||avidemux.org
 ||avoision.com
 .avyahoo.com
@@ -3264,6 +3271,7 @@ greatzhonghua.org
 gs-discuss.com
 ||gtricks.com
 guancha.org
+guaneryu.com
 .guardster.com
 .gun-world.net
 gunsandammo.com
@@ -4145,6 +4153,7 @@ http://*.m-team.cc
 .macrovpn.com
 macts.com.tw
 ||mad-ar.ch
+||madrau.com
 ||madthumbs.com
 ||magic-net.info
 mahabodhi.org

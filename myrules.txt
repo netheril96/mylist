@@ -51,7 +51,8 @@
 ||leagueoflegends.com
 ||twitchcdn.net
 ||jtvnw.com
-||twitch.tv
+||scorecardresearch.com
+||jtvnw.net
 ||pydata.org
 ||aqicn.org
 ||mobafire.com

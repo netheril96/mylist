@@ -28,7 +28,8 @@
 ||google.com
 ||medium.com
 ||google^
-||gg^
+||op.gg
+||champion.gg
 ||berkeley.edu
 ||stanford.edu
 ||openreview.net

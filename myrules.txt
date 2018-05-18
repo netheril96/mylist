@@ -28,6 +28,7 @@
 ||google.com
 ||medium.com
 ||google^
+||gg^
 ||berkeley.edu
 ||stanford.edu
 ||openreview.net

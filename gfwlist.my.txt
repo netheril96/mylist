@@ -408,7 +408,10 @@ share.dmhy.org
 ||s3-ap-southeast-2.amazonaws.com
 ||agro.hk
 ||apkmirror.com
+||behance.net
 ||bird.so
+||zh.bitterwinter.org
+||businessinsider.com
 ||boomssr.com
 ||castbox.fm
 ||cmcn.org
@@ -416,23 +419,31 @@ share.dmhy.org
 ||depositphotos.com
 ||fangeqiang.com
 ||flyzy2005.com
+||foreignpolicy.com
 ||free-ss.site
 ||blog.fuckgfw233.org
 ||globalvoices.org
 ||glorystar.me
+||goregrish.com
 ||hbo.com
+||hudson.org
 ||ipfs.io
+||japantimes.co.jp
 ||jiji.com
 ||jinx.com
+||liangzhichuanmei.com
 ||line-scdn.net
 ||i.lithium.com
 ||cloud.mail.ru
 ||cdn-images.mailchimp.com
+||mastodon.host
 ||mohu.club
 ||mohu.ml
-||mastodon.host
+||motiyun.com
+||msa-it.org
 ||dictionary.goo.ne.jp
 ||go.nesnode.com
+||international-news.newsmagazine.asia
 ||nikkei.com
 ||nofile.io
 ||now.com
@@ -442,10 +453,14 @@ share.dmhy.org
 ||my.pcloud.com
 ||picacomic.com
 ||pixiv.net
+||premproxy.com
 ||protonvpn.com
+||api.pureapk.com
 ||quora.com
 ||cdn.seatguru.com
 ||secure.raxcdn.com
+||rixcloud.com
+||rixcloud.us
 ||rsdlmonitor.com
 ||shadowsocks.be
 ||shadowsocks9.com
@@ -454,7 +469,9 @@ share.dmhy.org
 ||tn3.shemalez.com
 ||static.shemalez.com
 ||sosreader.com
+||sspanel.net
 ||sulian.me
+||supchina.com
 ||teddysun.com
 ||textnow.me
 ||tineye.com
@@ -468,11 +485,14 @@ share.dmhy.org
 ||scache1.vzw.com
 ||scache2.vzw.com
 ||ss7.vzw.com
+||ssr.tools
+||taiwanjustice.net
 ||wenzhao.ca
 ||whatsonweibo.com
 ||wire.com
 ||xm.com
 ||xuehua.us
+||zzcloud.me
 ||allcoin.com
 ||adcex.com
 ||bcex.ca
@@ -519,6 +539,7 @@ share.dmhy.org
 ||livecoin.net
 ||oex.com
 ||okex.com
+||otcbtc.com
 ||rightbtc.com
 ||topbtc.com
 ||xbtce.com
@@ -764,6 +785,8 @@ cdninstagram.com
 ||fb.com
 ||fb.me
 ||fbsbx.com
+||fbaddins.com
+||fbworkmail.com
 .instagram.com
 ||instagram.com
 ||m.me
@@ -1224,7 +1247,9 @@ blogspot.com
 ||chromestatus.com
 ||chromium.org
 ||com.google
+||crbug.com
 ||creativelab5.com
+||crisisresponse.google
 ||crrev.com
 ||data-vocabulary.org
 ||debug.com
@@ -1241,6 +1266,7 @@ blogspot.com
 ||gcr.io
 ||get.app
 ||get.how
+||get.page
 ||getmdl.io
 ||getoutline.org
 ||gmail.com
@@ -1330,6 +1356,7 @@ blogspot.com
 ||googleweblight.com
 ||googlezip.net
 ||groups.google.cn
+||grow.google
 ||gvt0.com
 ||gvt1.com
 ||gvt3.com
@@ -1346,7 +1373,9 @@ blogspot.com
 ||on2.com
 ||panoramio.com
 ||picasaweb.com
+||pki.goog
 ||polymer-project.org
+||pride.google
 ||questvisual.com
 ||admin.recaptcha.net
 ||api.recaptcha.net
@@ -1354,11 +1383,13 @@ blogspot.com
 ||api-verify.recaptcha.net
 ||redhotlabs.com
 ||registry.google
+||safety.google
 ||savethedate.foo
 ||schema.org
 ||shattered.io
 |http://sipml5.org/
 ||stories.google
+||sustainability.google
 ||synergyse.com
 ||teachparentstech.org
 ||thinkwithgoogle.com
@@ -1366,6 +1397,7 @@ blogspot.com
 ||urchin.com
 ||waveprotocol.org
 ||waymo.com
+||web.dev
 ||webmproject.org
 ||webrtc.org
 ||whatbrowser.org
@@ -1404,6 +1436,7 @@ cn.nytstyle.com
 ||telegram.org
 .telegramdownload.com
 ||telesco.pe
+||ttvnw.net
 ||periscope.tv
 .pscp.tv
 ||pscp.tv
@@ -1616,6 +1649,8 @@ taiwannation.50webs.com
 a5.com.ru
 |http://aamacau.com
 .abc.com
+.abc.net.au
+||abc.net.au
 .abchinese.com
 abclite.net
 |https://www.abclite.net
@@ -1677,6 +1712,7 @@ voa-11.akacast.akamaistream.net
 ||linear-abematv.akamaized.net
 ||vod-abematv.akamaized.net
 |https://fbcdn*.akamaihd.net/
+rthklive2-lh.akamaihd.net
 .akademiye.org/ug
 |http://akademiye.org/ug
 ||akiba-online.com
@@ -2146,6 +2182,7 @@ busytrade.com
 .buzzorange.com
 ||buzzorange.com
 ||bvpn.com
+||bwh1.net
 bwsj.hk
 ||bx.tl
 .c-spanvideo.org
@@ -3696,6 +3733,7 @@ hqmovies.com
 .hrea.org
 .hrichina.org
 ||hrichina.org
+.hrtsea.com
 .hrw.org
 ||hrw.org
 hrweb.org
@@ -3868,6 +3906,8 @@ website.informer.com
 internetdefenseleague.org
 internetfreedom.org
 ||internetpopculture.com
+.inthenameofconfuciusmovie.com
+||inthenameofconfuciusmovie.com
 inxian.com
 ||inxian.com
 ipalter.com
@@ -4330,7 +4370,7 @@ marguerite.su
 ||martincartoons.com
 maskedip.com
 .maiio.net
-mail-archive.com
+.mail-archive.com
 .malaysiakini.com
 ||makemymood.com
 .manchukuo.net
@@ -5318,6 +5358,7 @@ riku.me/
 .rtycminnesota.org
 .ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 rukor.org
+.runbtx.com
 .rushbee.com
 .ruten.com.tw
 rutube.ru
@@ -5369,6 +5410,7 @@ savevid.com
 |http://www.sciencemag.org/content/344/6187/953
 .sciencenets.com
 .scmp.com
+||scmp.com
 .scmpchinese.com
 ||scramble.io
 .scribd.com
@@ -5383,6 +5425,8 @@ secretchina.com
 .secretsline.biz
 ||secretsline.biz
 ||securetunnel.com
+securityinabox.org
+|https://securityinabox.org
 .securitykiss.com
 ||securitykiss.com
 ||seed4.me
@@ -5569,6 +5613,8 @@ sneakme.net
 snowlionpub.com
 home.so-net.net.tw/yisa_tsai
 ||soc.mil
+.socks-proxy.net
+||socks-proxy.net
 .sockscap64.com
 ||sockslist.net
 .socrec.org
@@ -5634,6 +5680,7 @@ sowers.org.hk
 ||speedify.com
 spem.at
 ||spencertipping.com
+||spendee.com
 ||spicevpn.com
 .spideroak.com
 ||spideroak.com
@@ -6400,6 +6447,7 @@ uploaded.net/file
 |http://uploaded.to/file
 .uploadstation.com/file
 .upmedia.mg
+||upmedia.mg
 .upornia.com
 |http://upornia.com
 ||uproxy.org
@@ -6442,6 +6490,7 @@ uyghur.co.uk
 ||uyghurcongress.org
 .uyghurpen.org
 .uyghurpress.com
+|https://uyghurpress.com
 .uyghurstudies.org
 |http://uyghurstudies.org
 uygur.org
@@ -6702,6 +6751,7 @@ whylover.com
 |http://zh.ecdm.wikia.com
 |http://evchk.wikia.com
 fq.wikia.com
+zh.pttpedia.wikia.com/wiki/%E7%BF%92%E5%8C%85%E5%AD%90%E4%B9%8B%E4%BA%82
 cn.uncyclopedia.wikia.com
 zh.uncyclopedia.wikia.com
 ||wikileaks.ch
@@ -6723,6 +6773,7 @@ wikilivres.info/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0
 ||zh.wikinews.org
 ||ja.wikipedia.org
 zh.wikipedia.org
+||ug.m.wikipedia.org
 zh.m.wikipedia.org
 |https://zh.m.wikipedia.org
 |https://zh.wikipedia.org
@@ -6768,6 +6819,7 @@ woopie.tv
 ||woopie.tv
 ||workatruna.com
 .workerdemo.org.hk
+.workerempowerment.org
 ||workersthebig.net
 .worldcat.org
 worldjournal.com
@@ -6808,6 +6860,7 @@ wretch.cc
 .wsj.com
 ||wsj.com
 .wsj.net
+||wsj.net
 .wsjhk.com
 .wtbn.org
 .wtfpeople.com
@@ -6909,7 +6962,6 @@ xysblogs.org
 xyy69.com
 xyy69.info
 ||yakbutterblues.com
-yam.com
 ||yam.com
 ||yam.org.tw
 .yanghengjun.com

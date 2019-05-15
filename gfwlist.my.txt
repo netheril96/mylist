@@ -279,8 +279,6 @@ share.dmhy.org
 |http://imgmega.com/*.jpg.html
 |http://imgmega.com/*.jpeg.html
 |http://imgmega.com/*.png.html
-|http://imgur.com/upload
-|https://imgur.com/upload
 ||imlive.com
 ||tw.iqiyi.com
 ||javhub.net
@@ -422,6 +420,7 @@ share.dmhy.org
 ||agro.hk
 ||apkmirror.com
 ||arte.tv
+||artstation.com
 ||bangdream.space
 ||behance.net
 ||bird.so
@@ -511,6 +510,7 @@ share.dmhy.org
 ||tn3.shemalez.com
 ||static.shemalez.com
 ||six-degrees.io
+||softfamous.com
 ||softsmirror.cf
 ||sosreader.com
 ||sspanel.net
@@ -538,6 +538,7 @@ share.dmhy.org
 ||wenzhao.ca
 ||whatsonweibo.com
 ||wire.com
+||blog.workflow.is
 ||xm.com
 ||xuehua.us
 ||yes-news.com
@@ -2038,6 +2039,7 @@ bannedbook.org
 |http://baramangaonline.com
 .barenakedislam.com
 ||barnabu.co.uk
+||barton.de
 bartvpn.com
 .bastillepost.com
 bayvoice.net
@@ -3347,6 +3349,8 @@ fucd.com
 .fuckcnnic.net
 ||fuckcnnic.net
 fuckgfw.org
+.fulione.com
+|https://fulione.com
 ||fullerconsideration.com
 fulue.com
 .funf.tw
@@ -3978,6 +3982,7 @@ imageshack.us
 .imdb.com/title/tt4908644
 .img.ly
 ||img.ly
+.imgur.com
 .imkev.com
 ||imkev.com
 .imlive.com
@@ -6892,15 +6897,7 @@ wikilivres.info/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0
 |http://zh.wikisource.org
 ||zh.wikinews.org
 ||ja.wikipedia.org
-zh.wikipedia.org
-||ug.m.wikipedia.org
-zh.m.wikipedia.org
-|https://zh.m.wikipedia.org
-|https://zh.wikipedia.org
-wuu.wikipedia.org
-|https://wuu.wikipedia.org
-zh-yue.wikipedia.org
-|https://zh-yue.wikipedia.org
+||wikipedia.org
 ||wikiwiki.jp
 ||casino.williamhill.com
 ||sports.williamhill.com

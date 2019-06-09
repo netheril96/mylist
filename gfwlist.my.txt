@@ -402,7 +402,6 @@ share.dmhy.org
 ||zattoo.com
 ||zim.vn
 ||zozotown.com
-||1.1.1.1
 14.102.250.18
 14.102.250.19
 50.7.31.230:8898
@@ -418,6 +417,7 @@ share.dmhy.org
 ||s3-ap-southeast-2.amazonaws.com
 ||43110.cf
 ||agro.hk
+||share.america.gov
 ||apkmirror.com
 ||arte.tv
 ||artstation.com
@@ -460,6 +460,7 @@ share.dmhy.org
 ||jinx.com
 ||joinmastodon.org
 ||liangzhichuanmei.com
+||lighti.me
 ||lihkg.com
 ||line-scdn.net
 ||i.lithium.com
@@ -490,6 +491,7 @@ share.dmhy.org
 ||picacomic.com
 ||pincong.rocks
 ||pixiv.net
+||potato.im
 ||premproxy.com
 ||prism-break.org
 ||protonvpn.com
@@ -1471,6 +1473,7 @@ blogspot.com
 ||panoramio.com
 ||picasaweb.com
 ||pki.goog
+||plus.codes
 ||polymer-project.org
 ||pride.google
 ||questvisual.com
@@ -1840,7 +1843,7 @@ allgirlsallowed.org
 .allgravure.com
 alliance.org.hk
 .allinfa.com
-|http://allinfa.com
+||allinfa.com
 .alljackpotscasino.com
 ||allmovie.com
 ||almasdarnews.com
@@ -2481,6 +2484,8 @@ chinalawandpolicy.com
 .chinamule.com
 ||chinamule.com
 chinamz.org
+.chinanewscenter.com
+|https://chinanewscenter.com
 .chinapress.com.my
 ||chinapress.com.my
 .china-review.com.ua
@@ -4176,6 +4181,7 @@ weiboscope.jmsc.hku.hk
 .joymiihub.com
 .joyourself.com
 jpopforum.net
+||fiddle.jshell.net
 .jubushoushen.com
 ||jubushoushen.com
 .juhuaren.com
@@ -4838,6 +4844,7 @@ ngensis.com
 |http://nhentai.net
 .nhk-ondemand.jp
 .nicovideo.jp/watch
+||nicovideo.jp
 ||nighost.org
 av.nightlife141.com
 ninecommentaries.com
@@ -5126,6 +5133,7 @@ picturesocial.com
 .pinkrod.com
 ||pinoy-n.com
 ||pinterest.at
+||pinterest.ca
 ||pinterest.co.kr
 ||pinterest.co.uk
 .pinterest.com
@@ -6287,7 +6295,6 @@ trulyergonomic.com
 tsquare.tv
 .tsu.org.tw
 tsunagarumon.com
-||tt-rss.org
 ||tt1069.com
 .tttan.com
 ||tttan.com
